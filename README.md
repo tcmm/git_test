@@ -1,0 +1,1 @@
+This is Trisha's first git project!
